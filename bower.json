@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-react",
+  "version": "0.0.1",
+  "description": "A portfolio component for visually displaying your projects",
+  "main": "dist/react-porfolio.js",
+  "keywords": [
+    "portfolio",
+    "react",
+    "react.js",
+    "creative",
+    "blog"
+  ],
+  "authors": [
+    "Dorian Karter (https://github.com/dkarter)"
+  ],
+  "license": "MIT",
+  "homepage": "http://doriankarter.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
