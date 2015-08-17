@@ -1,25 +1,29 @@
 {
-  "name": "portfolio-react",
-  "version": "0.0.1",
-  "description": "A portfolio component for visually displaying your projects",
-  "main": "dist/react-porfolio.js",
-  "keywords": [
-    "portfolio",
-    "react",
-    "react.js",
-    "creative",
-    "blog"
-  ],
+  "name": "react-portfolio",
+  "version": "0.0.0",
+  "description": "react-portfolio",
+  "main": "dist/react-portfolio.min.js",
+  "homepage": "https://github.com/dkarter/react-portfolio",
   "authors": [
-    "Dorian Karter (https://github.com/dkarter)"
+    "Dorian Karter"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "react",
+    "react-component"
   ],
   "license": "MIT",
-  "homepage": "http://doriankarter.com",
   "ignore": [
-    "**/.*",
+    ".editorconfig",
+    ".gitignore",
+    "package.json",
+    "src",
     "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "example",
+    "test"
   ]
 }
